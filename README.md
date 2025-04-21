@@ -31,5 +31,5 @@ Built with [Flutter](https://flutter.dev)
 
 or
 
-- Click [here](https://drive.google.com/drive/folders/19YC53mm1GeixNmnx9Iwky8ghPf1yG-Nl?usp=sharing)
+- Click [here](https://drive.google.com/drive/folders/1salJQ80NIOR9IAAm-3h38JJy0azJIdO1?usp=sharing)
   to download from Google Drive

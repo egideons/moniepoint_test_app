@@ -1,0 +1,161 @@
+{
+    "@@locale": "en",
+    "appTitle": "Moniepoint Test App",
+    "@appTitle": {
+        "description": "Label for the App title"
+    },
+    "hi": "Hi, {userName}",
+    "@hi": {
+        "description": "A message with a single parameter",
+        "placeholders": {
+            "userName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "exitApp": "Exit App",
+    "@exitApp": {
+        "description": "Label for the Exit App button"
+    },
+    "exitAppConfirmation": "Do you want to exit the app?",
+    "@exitAppConfirmation": {
+        "description": "Label for the Exit App confirmation dialog"
+    },
+    "yes": "Yes",
+    "@yes": {
+        "description": "Label for the Yes button"
+    },
+    "no": "No",
+    "@no": {
+        "description": "Label for the No button"
+    },
+    "saintPetersburg": "Saint Petersburg",
+    "@saintPetersburg": {
+        "description": "Label for Saint Petersburg"
+    },
+    "saintPetersburgDescription": "Saint Petersburg is a city in Russia, located on the Neva River, near the Gulf of Finland. It is known for its rich history, stunning architecture, and vibrant cultural scene.",
+    "@saintPetersburgDescription": {
+        "description": "Label for the description of Saint Petersburg"
+    },
+    "letsSelectYourPerfectPlace": "let's select your\nperfect place",
+    "@letsSelectYourPerfectPlace": {
+        "description": "Label for the text 'let's select your perfect place'"
+    },
+    "buy": "Buy",
+    "@buy": {
+        "description": "Label for the Buy button"
+    },
+    "offers": "Offers",
+    "@offers": {
+        "description": "Label for the Offers button"
+    },
+    "rent": "Rent",
+    "@rent": {
+        "description": "Label for the Rent button"
+    },
+    "listOfVariants": "List of variants",
+    "@listOfVariants": {
+        "description": "Label for the List of variants button"
+    },
+    "cosyAreas": "Cosy areas",
+    "@cosyAreas": {
+        "description": "Label for the Cosy areas button"
+    },
+    "price": "Price",
+    "@price": {
+        "description": "Label for the Price button"
+    },
+    "infrastructure": "Infrastructure",
+    "@infrastructure": {
+        "description": "Label for the Infrastructure button"
+    },
+    "withoutAnyLayer": "Without any layer",
+    "@withoutAnyLayer": {
+        "description": "Label for the Without any layer button"
+    },
+    "intro": "Hi, I'm",
+    "@intro": {
+        "description": "Label for intro"
+    },
+    "myFullName": "Gideon Chukwuoma Chimemerie",
+    "@myFullName": {
+        "description": "Label for my full name"
+    },
+    "poweredByFlutter": "Powered By Flutter",
+    "@poweredByFlutter": {
+        "description": "Label for the 'Powered by Flutter' text"
+    },
+    "egideonchuks": "egideonchuks",
+    "@egideonchuks": {
+        "description": "Label for my user name"
+    },
+    "aboutMe": "About Me",
+    "@aboutMe": {
+        "description": "Label for the About Me or tab."
+    },
+    "skills": "Skills",
+    "@skills": {
+        "description": "Label for the Skills screen or tab."
+    },
+    "services": "Services",
+    "@services": {
+        "description": "Label for the Services screen or tab."
+    },
+    "portfolio": "Portfolio",
+    "@portfolio": {
+        "description": "Label for the Portfolio screen or tab."
+    },
+    "contactMe": "Contact Me",
+    "@contactMe": {
+        "description": "Label for the Contact Me screen, button or tab."
+    },
+    "leader": "Leader",
+    "@leader": {
+        "description": "Label for leader"
+    },
+    "founderEduralabs": "Founder, Eduralabs",
+    "@founderEduralabs": {
+        "description": "Label for Founder, Eduralabs"
+    },
+    "mobileAppDeveloper": "Mobile Application Developer",
+    "@mobileAppDeveloper": {
+        "description": "Label for Mobile Application Developer"
+    },
+    "frontendWebDeveloper": "Frontend Web Developer",
+    "@frontendWebDeveloper": {
+        "description": "Label for Frontend Web Developer"
+    },
+    "graphicDesigner": "Graphic Designer",
+    "@graphicDesigner": {
+        "description": "Label for Graphic Designer"
+    },
+    "professionalSummary": "A strong team player and team leader, I am always eager to collaborate with designers, product managers, and stakeholders to bring innovative ideas to life. Analytical Software Developer with experience in software design and development. Practised at aligning user needs with design and operating within time and budget constraints.\nI am a highly skilled and motivated Mobile Developer and Frontend Web Developer with 5 years of experience in building dynamic and efficient mobile applications. I am Proficient in Dart programming language and the Flutter framework, I bring a passion for creating visually appealing and user-friendly interfaces.\nMy expertise in cross-platform development and agile methodologies allows me to deliver top-notch mobile experiences that meet clients' expectations and drive business results.",
+    "@professionalSummary": {
+        "description": "Label for Professional Summary"
+    },
+    "downloadResume": "Download Resume",
+    "@downloadResume": {
+        "description": "Label for the Download Resume button"
+    },
+    "yearsOfWorkExperience": "Years Experience",
+    "@yearsOfWorkExperience": {
+        "description": "Label for Years of Experience"
+    },
+    "projectsWorkedOn": "Projects worked on",
+    "@projectsWorkedOn": {
+        "description": "Label for projects worked on"
+    },
+    "companiesWorkedAt": "Companies worked at",
+    "@companiesWorkedAt": {
+        "description": "Label for companies worked at"
+    },
+    "whatIHaveDoneSoFar": "What I have done so far",
+    "@whatIHaveDoneSoFar": {
+        "description": "Label for What I have done so far"
+    },
+    "workExperience": "Work Experience",
+    "@workExperience": {
+        "description": "Label for Work Experience"
+    }
+}

@@ -1,16 +1,35 @@
-# test_app
+# Mobile Test Assessment
 
-A new Flutter project.
+A mobile application test project for [Moniepoint](https://moniepoint.com)
 
-## Getting Started
+Developer: Chukwuoma Gideon Chimemerie
 
-This project is a starting point for a Flutter application.
+📫 You can reach me here: [Mail](mailto:gideon.dart@gmail.com).
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Supports Dark and Light Mode (Defaults to System ThemeMode)
+- Search Screen
+- Home Screen
+- Profile Screen
+- Animations
+- Google Maps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Framework Info
+
+Built with [Flutter](https://flutter.dev)
+
+- `Flutter 3.29.2 • channel stable`
+- `Engine • revision 18b71d647a`
+- `Tools • Dart 3.7.2 • DevTools 2.42.2`
+
+## How to download the APK
+
+- Click on `Moniepoint Test App` under [Releases](https://github.com/egideons/moniepoint_test_app/releases)
+- You will see `app-release.apk` under Assets
+- Click on it to download the app
+
+or
+
+- Click [here](https://drive.google.com/drive/folders/19YC53mm1GeixNmnx9Iwky8ghPf1yG-Nl?usp=sharing)
+  to download from Google Drive
